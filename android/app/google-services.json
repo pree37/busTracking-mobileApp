@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184531398099",
+    "firebase_url": "https://trackingapp-5b220-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trackingapp-5b220",
+    "storage_bucket": "trackingapp-5b220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184531398099:android:b6f5832efe647ffc6d5326",
+        "android_client_info": {
+          "package_name": "com.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184531398099-lduu93pnusb835mop6b2nbjm06juvhaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEltG7HpQEX781JA7KmxoEPOYUwipKBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184531398099-lduu93pnusb835mop6b2nbjm06juvhaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
